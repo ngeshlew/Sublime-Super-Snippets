@@ -1,8 +1,7 @@
-A collection of front-end developer related Sublime Text 2 snippets.
+A collection of front-end developer related Sublime Text 2 snippets broken down to Elements.
 
 This is a very young repository and will be shaped into a well oiled collection in no time...
 
-Go nuts! 
-____________
 
-Lots of credit goes to Joshua Hibbert for the base of the CSS Snippets - https://github.com/joshnh/CSS-Snippets
+
+Lots of credit goes to Jake Bresnehan https://github.com/jakebresnehan
